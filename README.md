@@ -80,7 +80,7 @@ Catalog App: [http://52.36.113.208](http://52.36.113.208)
 
 8. Install Apache, mod_wsgi, postgresql and git:
 
-		sudo apt-get install apache2 apache2-dev python-dev libapache2-mod-wsgi postgresql git
+		sudo apt-get install apache2 apache2-dev python-dev libapache2-mod-wsgi postgresql git python-psycopg2
 
 9. Retrieve `item-catalog` project:
 
